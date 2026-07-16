@@ -229,11 +229,11 @@ weights/final/
 
 | Checkpoint | Expected path | Google Drive | Baidu Netdisk |
 |---|---|---|---|
-| External-pretrained MUST initialization | `weights/pretrained/pretrained.pth` | `https://drive.google.com/file/d/1RnNHi86sKSLSuYsOTVjw2PEYAmQUrdEh/view?usp=drive_link` | `https://pan.baidu.com/s/1sYthvvevQApRY-olwQERnA?pwd=9p49 提取码: 9p49` |
-| Brightfield final checkpoint | `weights/final/Brightfield/model.pth` | `https://drive.google.com/file/d/1lrZgz6StxWOQnbQyPxaXw9HqQrXqI6Ub/view?usp=drive_link` | `https://pan.baidu.com/s/1UdMNTsQbWsL_NdaFZhmMsw?pwd=uq19 提取码: uq19` |
-| Fluorescent final checkpoint | `weights/final/Fluorescent/model.pth` | `https://drive.google.com/file/d/1PkTq9FdQVKHv_732lQPUxbNgGdbWqmqk/view?usp=drive_link` | `https://pan.baidu.com/s/1Sfi1O4yB0t0RQ1sDTGK1vA?pwd=x4g5 提取码: x4g5` |
-| PC final checkpoint | `weights/final/PC/model.pth` | `https://drive.google.com/file/d/1e_NMFhhsLo9_xeSh5d9FcMT0wHfvOpwp/view?usp=drive_link` | `https://pan.baidu.com/s/1dh5ho1bvtqfDcUNKeHDtkw?pwd=xaxh 提取码: xaxh` |
-| DIC final checkpoint | `weights/final/DIC/model.pth` | `https://drive.google.com/file/d/12o-WbpmB2afs5MrZvMb8V6NuFzTylkLI/view?usp=drive_link` | `https://pan.baidu.com/s/1QR1ESnUT8AxQhn6zA_xypQ?pwd=t926 提取码: t926` |
+| External-pretrained MUST initialization | `weights/pretrained/pretrained.pth` | `https://drive.google.com/file/d/1RnNHi86sKSLSuYsOTVjw2PEYAmQUrdEh/view?usp=drive_link` | `https://pan.baidu.com/s/1sYthvvevQApRY-olwQERnA?pwd=9p49` |
+| Brightfield final checkpoint | `weights/final/Brightfield/model.pth` | `https://drive.google.com/file/d/1lrZgz6StxWOQnbQyPxaXw9HqQrXqI6Ub/view?usp=drive_link` | `https://pan.baidu.com/s/1UdMNTsQbWsL_NdaFZhmMsw?pwd=uq19` |
+| Fluorescent final checkpoint | `weights/final/Fluorescent/model.pth` | `https://drive.google.com/file/d/1PkTq9FdQVKHv_732lQPUxbNgGdbWqmqk/view?usp=drive_link` | `https://pan.baidu.com/s/1Sfi1O4yB0t0RQ1sDTGK1vA?pwd=x4g5` |
+| PC final checkpoint | `weights/final/PC/model.pth` | `https://drive.google.com/file/d/1e_NMFhhsLo9_xeSh5d9FcMT0wHfvOpwp/view?usp=drive_link` | `https://pan.baidu.com/s/1dh5ho1bvtqfDcUNKeHDtkw?pwd=xaxh` |
+| DIC final checkpoint | `weights/final/DIC/model.pth` | `https://drive.google.com/file/d/12o-WbpmB2afs5MrZvMb8V6NuFzTylkLI/view?usp=drive_link` | `https://pan.baidu.com/s/1QR1ESnUT8AxQhn6zA_xypQ?pwd=t926` |
 
 ### Prediction and evaluation
 
