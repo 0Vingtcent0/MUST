@@ -1,0 +1,66 @@
+
+# Python cache
+
+__pycache__/
+
+*.py[cod]
+
+*.so
+
+.ipynb_checkpoints/
+
+
+
+# System files
+
+.DS_Store
+
+Thumbs.db
+
+
+
+# Logs
+
+*.log
+
+wandb/
+
+runs/
+
+
+
+# Generated outputs
+
+results/
+
+outputs/
+
+submission/
+
+submissions/
+
+
+
+# Model checkpoints and weights
+
+weights/
+
+*.pth
+
+*.pt
+
+*.ckpt
+
+*.bin
+
+*.safetensors
+
+
+
+# Optional local datasets
+
+data/CellSeg/Official/
+
+data/CellSeg/Public/
+
+.idea/

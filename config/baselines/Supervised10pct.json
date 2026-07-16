@@ -1,0 +1,72 @@
+{
+    "data_setups": {
+        "labeled": {
+            "batch_size": 4,
+            "valid_portion": 0.0
+        }
+    },
+    "train_setups": {
+        "model": {
+            "name": "must",
+            "params": {},
+            "pretrained": {
+                "enabled": true,
+                "weights": "./weights/pretrained/pretrained.pth",
+                "strict": false
+            }
+        },
+        "trainer": {
+            "name": "must",
+            "params": {
+                "num_epochs": 200,
+                "valid_frequency": 1,
+                "device": "cuda:0"
+            }
+        },
+        "optimizer": {
+            "name": "adamw",
+            "params": {
+                "lr": 2e-05
+            }
+        },
+        "seed": 20251214
+    },
+    "pred_setups": {
+        "input_path": "./data/CellSeg/Official/TuningSet/images",
+        "output_path": "./results/supervised_10pct",
+        "make_submission": true,
+        "exp_name": "must_supervised_10pct",
+        "algo_params": {
+            "use_tta": false
+        },
+        "evaluate": {
+            "enabled": true,
+            "gt_path": "./data/CellSeg/Official/TuningSet/labels",
+            "save_path": "./results/evaluation/supervised_10pct",
+            "threshold": 0.5,
+            "strict": true,
+            "csv_name": null,
+            "summary_name": null
+        }
+    },
+    "wandb_setups": {
+        "project": "MUST",
+        "group": "Supervised-10pct",
+        "name": "supervised_10pct"
+    },
+    "mapping_setups": {
+        "enabled": true,
+        "setup_file": "./config/mappings/cellseg_mapping_setup.json",
+        "dataset": "cellseg",
+        "split": "supervised_10pct",
+        "modality": "multi"
+    },
+    "semisupervised": {
+        "enabled": false
+    },
+    "early_stopping": {
+        "enabled": true,
+        "patience": 50,
+        "min_delta": 0.0
+    }
+}

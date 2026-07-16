@@ -1,0 +1,44 @@
+{
+    "pred_setups": {
+        "name": "must",
+        "input_path": "./data/CellSeg/Official/TuningSet/images",
+        "output_path": "./results/must",
+        "make_submission": false,
+        "model_path": "./weights/model.pth",
+        "device": "cuda:0",
+        "model": {
+            "name": "must",
+            "params": {
+                "encoder_name": "mit_b5",
+                "decoder_channels": [
+                    1024,
+                    512,
+                    256,
+                    128,
+                    64
+                ],
+                "decoder_pab_channels": 256,
+                "in_channels": 3
+            }
+        },
+        "exp_name": "MUST",
+        "algo_params": {
+            "use_tta": true
+        },
+        "evaluate": {
+            "enabled": true,
+            "gt_path": "./data/CellSeg/Official/TuningSet/labels",
+            "save_path": "./results/must/evaluation",
+            "threshold": 0.5,
+            "strict": true,
+            "csv_name": "evaluation.csv",
+            "summary_name": "summary.json",
+            "mapping_file": "./config/mappings/mapping_test.json",
+            "root": "./data/CellSeg/",
+            "modality": null
+        },
+        "root": "./data/CellSeg/",
+        "input_mapping": "./config/mappings/mapping_test.json",
+        "modality": null
+    }
+}

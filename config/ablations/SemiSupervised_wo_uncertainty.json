@@ -1,0 +1,134 @@
+{
+    "mapping_setups": {
+        "enabled": true,
+        "setup_file": "./config/mappings/cellseg_mapping_setup.json",
+        "dataset": "cellseg",
+        "split": "semi",
+        "modality": "multi"
+    },
+    "data_setups": {
+        "labeled": {
+            "batch_size": 4,
+            "valid_portion": 0.0
+        },
+        "unlabeled": {
+            "enabled": true,
+            "params": {
+                "batch_size": 4
+            }
+        }
+    },
+    "semisupervised": {
+        "enabled": true,
+        "dataloader": {
+            "unlabeled_batch_size": 4
+        },
+        "warmup": {
+            "warmup_epochs": 50,
+            "ssl_start_threshold": 0.65,
+            "valid_frequency": 1,
+            "scan_improve_eps": 0.0
+        },
+        "teacher": {
+            "ema_decay": 0.998,
+            "ema_update_every": 4
+        },
+        "loss": {
+            "unsup_alpha": 0.3,
+            "unsup_beta": 0.0,
+            "unsup_flow_w": 0.0,
+            "qr_lambda": 0.0,
+            "flow_loss": "charbonnier",
+            "flow_charb_eps": 0.001,
+            "ema_alpha": 0.1,
+            "unsup_band_lo": 0.25,
+            "unsup_band_hi": 1.0,
+            "use_consistency_rampup": false,
+            "consistency_rampup_epochs": 0
+        },
+        "uncertainty": {
+            "entropy_gamma": 2.0,
+            "core_thr": 0.85,
+            "halo_low": 0.5,
+            "bg_thr": 0.3,
+            "w_core": 1.0,
+            "w_halo": 0.5,
+            "w_bg": 0.25,
+            "w_mid": 0.1,
+            "clamp_min": 0.05,
+            "clamp_max": 1.0
+        },
+        "inference": {
+            "roi_size": 512,
+            "sw_batch_size": 4,
+            "overlap": 0.6,
+            "mode": "constant",
+            "padding_mode": "constant",
+            "skip_large_test_images": 5000,
+            "postprocess_big_chunk": 2000,
+            "max_pixels_no_pad": 25000000
+        },
+        "ablation": {
+            "use_unsupervised": true,
+            "use_mask_consistency": true,
+            "use_rqkl": false,
+            "use_flow_consistency": false,
+            "use_uncertainty_weight": false,
+            "use_dynamic_unsup_scale": false
+        }
+    },
+    "train_setups": {
+        "model": {
+            "name": "must",
+            "params": {},
+            "pretrained": {
+                "enabled": true,
+                "weights": "./weights/pretrained/pretrained.pth",
+                "strict": false
+            }
+        },
+        "trainer": {
+            "name": "must",
+            "params": {
+                "num_epochs": 200,
+                "valid_frequency": 1,
+                "device": "cuda:0"
+            }
+        },
+        "optimizer": {
+            "name": "adamw",
+            "params": {
+                "lr": 2e-05
+            }
+        },
+        "seed": 20251214
+    },
+    "pred_setups": {
+        "input_path": "./data/CellSeg/Official/TuningSet/images",
+        "output_path": "./results/ablation/wo_uncertainty/predictions",
+        "make_submission": true,
+        "exp_name": "MUST_wo_Uncertainty",
+        "algo_params": {
+            "use_tta": true
+        },
+        "evaluate": {
+            "enabled": true,
+            "gt_path": "./data/CellSeg/Official/TuningSet/labels",
+            "save_path": "./results/ablation/wo_uncertainty/evaluation",
+            "threshold": 0.5,
+            "strict": true,
+            "csv_name": null,
+            "summary_name": null
+        }
+    },
+    "wandb_setups": {
+        "project": "MUST",
+        "group": "MUST-Ablation",
+        "name": "MUST_wo_Uncertainty"
+    },
+    "early_stopping": {
+        "enabled": true,
+        "patience": 50,
+        "min_delta": 0.0
+    }
+}

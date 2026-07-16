@@ -1,0 +1,55 @@
+{
+    "data_setups": {
+        "labeled": {
+            "root": "./data/CellSeg/",
+            "mapping_file": "./config/mappings/mapping_public.json",
+            "mapping_file_test": "./config/mappings/mapping_test.json",
+            "batch_size": 9,
+            "valid_portion": 0.1
+        }
+    },
+    "train_setups": {
+        "model": {
+            "name": "must",
+            "params": {},
+            "pretrained": {
+                "enabled": false
+            }
+        },
+        "trainer": {
+            "name": "must",
+            "params": {
+                "num_epochs": 80,
+                "valid_frequency": 10,
+                "device": "cuda:0"
+            }
+        },
+        "optimizer": {
+            "name": "adamw",
+            "ft_rate": 1.0,
+            "params": {
+                "lr": 5e-05
+            }
+        },
+        "seed": 20251214
+    },
+    "pred_setups": {
+        "input_path": "./data/CellSeg/Official/TuningSet/images",
+        "output_path": "./results/pretraining",
+        "exp_name": "must_pretrained",
+        "make_submission": false,
+        "algo_params": {
+            "use_tta": false
+        }
+    },
+    "wandb_setups": {
+        "project": "MUST",
+        "group": "Pretraining",
+        "name": "pretraining"
+    },
+    "early_stopping": {
+        "enabled": true,
+        "patience": 50,
+        "min_delta": 0.0
+    }
+}

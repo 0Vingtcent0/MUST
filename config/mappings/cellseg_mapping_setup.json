@@ -1,0 +1,23 @@
+{
+    "cellseg": {
+        "root": "./data/CellSeg/",
+        "splits": {
+            "supervised_90pct": {
+                "labeled": "./config/mappings/mapping_train.json",
+                "validation": "./config/mappings/mapping_val_10pct.json",
+                "test": "./config/mappings/mapping_test.json"
+            },
+            "supervised_10pct": {
+                "labeled": "./config/mappings/mapping_train_10pct.json",
+                "validation": "./config/mappings/mapping_val_10pct.json",
+                "test": "./config/mappings/mapping_test.json"
+            },
+            "semi": {
+                "labeled": "./config/mappings/mapping_train_10pct.json",
+                "validation": "./config/mappings/mapping_val_10pct.json",
+                "unlabeled": "./config/mappings/mapping_unlabeled_10pct.json",
+                "test": "./config/mappings/mapping_test.json"
+            }
+        }
+    }
+}

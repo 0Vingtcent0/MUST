@@ -1,0 +1,509 @@
+{
+    "official": [
+        {
+            "img": "Official/TuningSet/images/cell_00001.tiff",
+            "label": "Official/TuningSet/labels/cell_00001_label.tiff",
+            "modality": "Brightfield"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00002.png",
+            "label": "Official/TuningSet/labels/cell_00002_label.tiff",
+            "modality": "Brightfield"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00003.tiff",
+            "label": "Official/TuningSet/labels/cell_00003_label.tiff",
+            "modality": "Brightfield"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00004.png",
+            "label": "Official/TuningSet/labels/cell_00004_label.tiff",
+            "modality": "Brightfield"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00005.png",
+            "label": "Official/TuningSet/labels/cell_00005_label.tiff",
+            "modality": "Brightfield"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00006.png",
+            "label": "Official/TuningSet/labels/cell_00006_label.tiff",
+            "modality": "Brightfield"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00007.tiff",
+            "label": "Official/TuningSet/labels/cell_00007_label.tiff",
+            "modality": "Brightfield"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00008.tiff",
+            "label": "Official/TuningSet/labels/cell_00008_label.tiff",
+            "modality": "Brightfield"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00009.png",
+            "label": "Official/TuningSet/labels/cell_00009_label.tiff",
+            "modality": "Brightfield"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00010.png",
+            "label": "Official/TuningSet/labels/cell_00010_label.tiff",
+            "modality": "Brightfield"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00011.png",
+            "label": "Official/TuningSet/labels/cell_00011_label.tiff",
+            "modality": "Brightfield"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00012.png",
+            "label": "Official/TuningSet/labels/cell_00012_label.tiff",
+            "modality": "Brightfield"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00013.tiff",
+            "label": "Official/TuningSet/labels/cell_00013_label.tiff",
+            "modality": "Brightfield"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00014.tiff",
+            "label": "Official/TuningSet/labels/cell_00014_label.tiff",
+            "modality": "Brightfield"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00015.png",
+            "label": "Official/TuningSet/labels/cell_00015_label.tiff",
+            "modality": "Brightfield"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00016.tiff",
+            "label": "Official/TuningSet/labels/cell_00016_label.tiff",
+            "modality": "Brightfield"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00017.png",
+            "label": "Official/TuningSet/labels/cell_00017_label.tiff",
+            "modality": "Brightfield"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00018.tiff",
+            "label": "Official/TuningSet/labels/cell_00018_label.tiff",
+            "modality": "Brightfield"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00019.tiff",
+            "label": "Official/TuningSet/labels/cell_00019_label.tiff",
+            "modality": "Brightfield"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00020.tiff",
+            "label": "Official/TuningSet/labels/cell_00020_label.tiff",
+            "modality": "Brightfield"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00021.tiff",
+            "label": "Official/TuningSet/labels/cell_00021_label.tiff",
+            "modality": "Brightfield"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00022.tiff",
+            "label": "Official/TuningSet/labels/cell_00022_label.tiff",
+            "modality": "Brightfield"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00023.tiff",
+            "label": "Official/TuningSet/labels/cell_00023_label.tiff",
+            "modality": "Brightfield"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00024.tiff",
+            "label": "Official/TuningSet/labels/cell_00024_label.tiff",
+            "modality": "Brightfield"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00025.png",
+            "label": "Official/TuningSet/labels/cell_00025_label.tiff",
+            "modality": "Brightfield"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00026.png",
+            "label": "Official/TuningSet/labels/cell_00026_label.tiff",
+            "modality": "Brightfield"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00027.tiff",
+            "label": "Official/TuningSet/labels/cell_00027_label.tiff",
+            "modality": "PC"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00028.tiff",
+            "label": "Official/TuningSet/labels/cell_00028_label.tiff",
+            "modality": "PC"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00029.tiff",
+            "label": "Official/TuningSet/labels/cell_00029_label.tiff",
+            "modality": "PC"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00030.tiff",
+            "label": "Official/TuningSet/labels/cell_00030_label.tiff",
+            "modality": "PC"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00031.tiff",
+            "label": "Official/TuningSet/labels/cell_00031_label.tiff",
+            "modality": "PC"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00032.tiff",
+            "label": "Official/TuningSet/labels/cell_00032_label.tiff",
+            "modality": "PC"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00033.tiff",
+            "label": "Official/TuningSet/labels/cell_00033_label.tiff",
+            "modality": "PC"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00034.tiff",
+            "label": "Official/TuningSet/labels/cell_00034_label.tiff",
+            "modality": "PC"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00035.tiff",
+            "label": "Official/TuningSet/labels/cell_00035_label.tiff",
+            "modality": "PC"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00036.tiff",
+            "label": "Official/TuningSet/labels/cell_00036_label.tiff",
+            "modality": "PC"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00037.tiff",
+            "label": "Official/TuningSet/labels/cell_00037_label.tiff",
+            "modality": "PC"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00038.tiff",
+            "label": "Official/TuningSet/labels/cell_00038_label.tiff",
+            "modality": "PC"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00039.tiff",
+            "label": "Official/TuningSet/labels/cell_00039_label.tiff",
+            "modality": "PC"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00040.png",
+            "label": "Official/TuningSet/labels/cell_00040_label.tiff",
+            "modality": "Brightfield"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00041.png",
+            "label": "Official/TuningSet/labels/cell_00041_label.tiff",
+            "modality": "Brightfield"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00042.png",
+            "label": "Official/TuningSet/labels/cell_00042_label.tiff",
+            "modality": "Brightfield"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00043.png",
+            "label": "Official/TuningSet/labels/cell_00043_label.tiff",
+            "modality": "Fluorescent"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00044.png",
+            "label": "Official/TuningSet/labels/cell_00044_label.tiff",
+            "modality": "Fluorescent"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00045.png",
+            "label": "Official/TuningSet/labels/cell_00045_label.tiff",
+            "modality": "Fluorescent"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00046.png",
+            "label": "Official/TuningSet/labels/cell_00046_label.tiff",
+            "modality": "Fluorescent"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00047.png",
+            "label": "Official/TuningSet/labels/cell_00047_label.tiff",
+            "modality": "Fluorescent"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00048.png",
+            "label": "Official/TuningSet/labels/cell_00048_label.tiff",
+            "modality": "Fluorescent"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00049.png",
+            "label": "Official/TuningSet/labels/cell_00049_label.tiff",
+            "modality": "Fluorescent"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00050.png",
+            "label": "Official/TuningSet/labels/cell_00050_label.tiff",
+            "modality": "Fluorescent"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00051.png",
+            "label": "Official/TuningSet/labels/cell_00051_label.tiff",
+            "modality": "Fluorescent"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00052.png",
+            "label": "Official/TuningSet/labels/cell_00052_label.tiff",
+            "modality": "Fluorescent"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00053.png",
+            "label": "Official/TuningSet/labels/cell_00053_label.tiff",
+            "modality": "Fluorescent"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00054.png",
+            "label": "Official/TuningSet/labels/cell_00054_label.tiff",
+            "modality": "Fluorescent"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00055.png",
+            "label": "Official/TuningSet/labels/cell_00055_label.tiff",
+            "modality": "Fluorescent"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00056.png",
+            "label": "Official/TuningSet/labels/cell_00056_label.tiff",
+            "modality": "Fluorescent"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00057.png",
+            "label": "Official/TuningSet/labels/cell_00057_label.tiff",
+            "modality": "Fluorescent"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00058.png",
+            "label": "Official/TuningSet/labels/cell_00058_label.tiff",
+            "modality": "Fluorescent"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00059.png",
+            "label": "Official/TuningSet/labels/cell_00059_label.tiff",
+            "modality": "Fluorescent"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00060.png",
+            "label": "Official/TuningSet/labels/cell_00060_label.tiff",
+            "modality": "Fluorescent"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00061.png",
+            "label": "Official/TuningSet/labels/cell_00061_label.tiff",
+            "modality": "Fluorescent"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00062.png",
+            "label": "Official/TuningSet/labels/cell_00062_label.tiff",
+            "modality": "Fluorescent"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00063.png",
+            "label": "Official/TuningSet/labels/cell_00063_label.tiff",
+            "modality": "Fluorescent"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00064.png",
+            "label": "Official/TuningSet/labels/cell_00064_label.tiff",
+            "modality": "Fluorescent"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00065.png",
+            "label": "Official/TuningSet/labels/cell_00065_label.tiff",
+            "modality": "Fluorescent"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00066.png",
+            "label": "Official/TuningSet/labels/cell_00066_label.tiff",
+            "modality": "Fluorescent"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00067.png",
+            "label": "Official/TuningSet/labels/cell_00067_label.tiff",
+            "modality": "Fluorescent"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00068.png",
+            "label": "Official/TuningSet/labels/cell_00068_label.tiff",
+            "modality": "Fluorescent"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00069.png",
+            "label": "Official/TuningSet/labels/cell_00069_label.tiff",
+            "modality": "Fluorescent"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00070.png",
+            "label": "Official/TuningSet/labels/cell_00070_label.tiff",
+            "modality": "Brightfield"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00071.tif",
+            "label": "Official/TuningSet/labels/cell_00071_label.tiff",
+            "modality": "PC"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00072.tif",
+            "label": "Official/TuningSet/labels/cell_00072_label.tiff",
+            "modality": "PC"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00073.tif",
+            "label": "Official/TuningSet/labels/cell_00073_label.tiff",
+            "modality": "PC"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00074.tif",
+            "label": "Official/TuningSet/labels/cell_00074_label.tiff",
+            "modality": "PC"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00075.tif",
+            "label": "Official/TuningSet/labels/cell_00075_label.tiff",
+            "modality": "PC"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00076.tif",
+            "label": "Official/TuningSet/labels/cell_00076_label.tiff",
+            "modality": "PC"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00077.tif",
+            "label": "Official/TuningSet/labels/cell_00077_label.tiff",
+            "modality": "PC"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00078.tif",
+            "label": "Official/TuningSet/labels/cell_00078_label.tiff",
+            "modality": "PC"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00079.tif",
+            "label": "Official/TuningSet/labels/cell_00079_label.tiff",
+            "modality": "DIC"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00080.tif",
+            "label": "Official/TuningSet/labels/cell_00080_label.tiff",
+            "modality": "DIC"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00081.tif",
+            "label": "Official/TuningSet/labels/cell_00081_label.tiff",
+            "modality": "DIC"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00082.tif",
+            "label": "Official/TuningSet/labels/cell_00082_label.tiff",
+            "modality": "DIC"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00083.tif",
+            "label": "Official/TuningSet/labels/cell_00083_label.tiff",
+            "modality": "DIC"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00084.tif",
+            "label": "Official/TuningSet/labels/cell_00084_label.tiff",
+            "modality": "DIC"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00085.tif",
+            "label": "Official/TuningSet/labels/cell_00085_label.tiff",
+            "modality": "DIC"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00086.tif",
+            "label": "Official/TuningSet/labels/cell_00086_label.tiff",
+            "modality": "DIC"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00087.tif",
+            "label": "Official/TuningSet/labels/cell_00087_label.tiff",
+            "modality": "DIC"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00088.tif",
+            "label": "Official/TuningSet/labels/cell_00088_label.tiff",
+            "modality": "DIC"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00089.tif",
+            "label": "Official/TuningSet/labels/cell_00089_label.tiff",
+            "modality": "DIC"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00090.tif",
+            "label": "Official/TuningSet/labels/cell_00090_label.tiff",
+            "modality": "DIC"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00091.tif",
+            "label": "Official/TuningSet/labels/cell_00091_label.tiff",
+            "modality": "DIC"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00092.tif",
+            "label": "Official/TuningSet/labels/cell_00092_label.tiff",
+            "modality": "DIC"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00093.tif",
+            "label": "Official/TuningSet/labels/cell_00093_label.tiff",
+            "modality": "DIC"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00094.tif",
+            "label": "Official/TuningSet/labels/cell_00094_label.tiff",
+            "modality": "DIC"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00095.tif",
+            "label": "Official/TuningSet/labels/cell_00095_label.tiff",
+            "modality": "DIC"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00096.tif",
+            "label": "Official/TuningSet/labels/cell_00096_label.tiff",
+            "modality": "DIC"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00097.tif",
+            "label": "Official/TuningSet/labels/cell_00097_label.tiff",
+            "modality": "DIC"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00098.tif",
+            "label": "Official/TuningSet/labels/cell_00098_label.tiff",
+            "modality": "DIC"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00099.tif",
+            "label": "Official/TuningSet/labels/cell_00099_label.tiff",
+            "modality": "PC"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00100.tif",
+            "label": "Official/TuningSet/labels/cell_00100_label.tiff",
+            "modality": "PC"
+        },
+        {
+            "img": "Official/TuningSet/images/cell_00101.tif",
+            "label": "Official/TuningSet/labels/cell_00101_label.tiff",
+            "modality": "Fluorescent"
+        }
+    ]
+}

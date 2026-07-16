@@ -1,0 +1,504 @@
+{
+    "official": [
+        {
+            "img": "Official/Train_Labeled/images/cell_00008.bmp",
+            "label": "Official/Train_Labeled/labels/cell_00008_label.tiff",
+            "modality": "Brightfield"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00018.bmp",
+            "label": "Official/Train_Labeled/labels/cell_00018_label.tiff",
+            "modality": "Brightfield"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00024.bmp",
+            "label": "Official/Train_Labeled/labels/cell_00024_label.tiff",
+            "modality": "Brightfield"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00080.bmp",
+            "label": "Official/Train_Labeled/labels/cell_00080_label.tiff",
+            "modality": "Brightfield"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00082.bmp",
+            "label": "Official/Train_Labeled/labels/cell_00082_label.tiff",
+            "modality": "Brightfield"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00107.bmp",
+            "label": "Official/Train_Labeled/labels/cell_00107_label.tiff",
+            "modality": "Brightfield"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00108.bmp",
+            "label": "Official/Train_Labeled/labels/cell_00108_label.tiff",
+            "modality": "Brightfield"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00120.bmp",
+            "label": "Official/Train_Labeled/labels/cell_00120_label.tiff",
+            "modality": "Brightfield"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00125.bmp",
+            "label": "Official/Train_Labeled/labels/cell_00125_label.tiff",
+            "modality": "Brightfield"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00136.bmp",
+            "label": "Official/Train_Labeled/labels/cell_00136_label.tiff",
+            "modality": "Brightfield"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00140.bmp",
+            "label": "Official/Train_Labeled/labels/cell_00140_label.tiff",
+            "modality": "Brightfield"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00143.tif",
+            "label": "Official/Train_Labeled/labels/cell_00143_label.tiff",
+            "modality": "PC"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00144.tif",
+            "label": "Official/Train_Labeled/labels/cell_00144_label.tiff",
+            "modality": "PC"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00148.png",
+            "label": "Official/Train_Labeled/labels/cell_00148_label.tiff",
+            "modality": "Brightfield"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00174.png",
+            "label": "Official/Train_Labeled/labels/cell_00174_label.tiff",
+            "modality": "Brightfield"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00186.png",
+            "label": "Official/Train_Labeled/labels/cell_00186_label.tiff",
+            "modality": "Brightfield"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00190.png",
+            "label": "Official/Train_Labeled/labels/cell_00190_label.tiff",
+            "modality": "Brightfield"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00204.png",
+            "label": "Official/Train_Labeled/labels/cell_00204_label.tiff",
+            "modality": "Brightfield"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00209.png",
+            "label": "Official/Train_Labeled/labels/cell_00209_label.tiff",
+            "modality": "Brightfield"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00210.png",
+            "label": "Official/Train_Labeled/labels/cell_00210_label.tiff",
+            "modality": "Brightfield"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00211.png",
+            "label": "Official/Train_Labeled/labels/cell_00211_label.tiff",
+            "modality": "Brightfield"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00226.png",
+            "label": "Official/Train_Labeled/labels/cell_00226_label.tiff",
+            "modality": "Brightfield"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00234.tif",
+            "label": "Official/Train_Labeled/labels/cell_00234_label.tiff",
+            "modality": "Brightfield"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00240.tif",
+            "label": "Official/Train_Labeled/labels/cell_00240_label.tiff",
+            "modality": "Brightfield"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00243.tif",
+            "label": "Official/Train_Labeled/labels/cell_00243_label.tiff",
+            "modality": "Brightfield"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00259.tif",
+            "label": "Official/Train_Labeled/labels/cell_00259_label.tiff",
+            "modality": "Brightfield"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00281.tif",
+            "label": "Official/Train_Labeled/labels/cell_00281_label.tiff",
+            "modality": "Brightfield"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00282.tif",
+            "label": "Official/Train_Labeled/labels/cell_00282_label.tiff",
+            "modality": "Brightfield"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00285.tif",
+            "label": "Official/Train_Labeled/labels/cell_00285_label.tiff",
+            "modality": "Brightfield"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00286.tif",
+            "label": "Official/Train_Labeled/labels/cell_00286_label.tiff",
+            "modality": "Brightfield"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00291.tif",
+            "label": "Official/Train_Labeled/labels/cell_00291_label.tiff",
+            "modality": "Brightfield"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00298.tif",
+            "label": "Official/Train_Labeled/labels/cell_00298_label.tiff",
+            "modality": "Brightfield"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00305.tiff",
+            "label": "Official/Train_Labeled/labels/cell_00305_label.tiff",
+            "modality": "DIC"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00308.tiff",
+            "label": "Official/Train_Labeled/labels/cell_00308_label.tiff",
+            "modality": "DIC"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00322.tif",
+            "label": "Official/Train_Labeled/labels/cell_00322_label.tiff",
+            "modality": "DIC"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00325.tif",
+            "label": "Official/Train_Labeled/labels/cell_00325_label.tiff",
+            "modality": "DIC"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00332.tif",
+            "label": "Official/Train_Labeled/labels/cell_00332_label.tiff",
+            "modality": "DIC"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00349.tif",
+            "label": "Official/Train_Labeled/labels/cell_00349_label.tiff",
+            "modality": "DIC"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00352.tif",
+            "label": "Official/Train_Labeled/labels/cell_00352_label.tiff",
+            "modality": "DIC"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00355.tif",
+            "label": "Official/Train_Labeled/labels/cell_00355_label.tiff",
+            "modality": "DIC"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00358.tif",
+            "label": "Official/Train_Labeled/labels/cell_00358_label.tiff",
+            "modality": "DIC"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00365.tif",
+            "label": "Official/Train_Labeled/labels/cell_00365_label.tiff",
+            "modality": "DIC"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00372.tif",
+            "label": "Official/Train_Labeled/labels/cell_00372_label.tiff",
+            "modality": "DIC"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00376.tif",
+            "label": "Official/Train_Labeled/labels/cell_00376_label.tiff",
+            "modality": "DIC"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00394.tif",
+            "label": "Official/Train_Labeled/labels/cell_00394_label.tiff",
+            "modality": "DIC"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00404.tif",
+            "label": "Official/Train_Labeled/labels/cell_00404_label.tiff",
+            "modality": "DIC"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00406.tif",
+            "label": "Official/Train_Labeled/labels/cell_00406_label.tiff",
+            "modality": "DIC"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00435.tif",
+            "label": "Official/Train_Labeled/labels/cell_00435_label.tiff",
+            "modality": "DIC"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00443.tif",
+            "label": "Official/Train_Labeled/labels/cell_00443_label.tiff",
+            "modality": "DIC"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00463.tif",
+            "label": "Official/Train_Labeled/labels/cell_00463_label.tiff",
+            "modality": "DIC"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00485.tif",
+            "label": "Official/Train_Labeled/labels/cell_00485_label.tiff",
+            "modality": "DIC"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00498.tif",
+            "label": "Official/Train_Labeled/labels/cell_00498_label.tiff",
+            "modality": "DIC"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00503.tif",
+            "label": "Official/Train_Labeled/labels/cell_00503_label.tiff",
+            "modality": "PC"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00505.tif",
+            "label": "Official/Train_Labeled/labels/cell_00505_label.tiff",
+            "modality": "PC"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00520.tif",
+            "label": "Official/Train_Labeled/labels/cell_00520_label.tiff",
+            "modality": "PC"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00529.tif",
+            "label": "Official/Train_Labeled/labels/cell_00529_label.tiff",
+            "modality": "PC"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00542.tif",
+            "label": "Official/Train_Labeled/labels/cell_00542_label.tiff",
+            "modality": "PC"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00548.tif",
+            "label": "Official/Train_Labeled/labels/cell_00548_label.tiff",
+            "modality": "PC"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00551.tiff",
+            "label": "Official/Train_Labeled/labels/cell_00551_label.tiff",
+            "modality": "PC"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00556.tiff",
+            "label": "Official/Train_Labeled/labels/cell_00556_label.tiff",
+            "modality": "PC"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00578.tif",
+            "label": "Official/Train_Labeled/labels/cell_00578_label.tiff",
+            "modality": "PC"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00588.tif",
+            "label": "Official/Train_Labeled/labels/cell_00588_label.tiff",
+            "modality": "PC"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00598.tif",
+            "label": "Official/Train_Labeled/labels/cell_00598_label.tiff",
+            "modality": "PC"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00619.tif",
+            "label": "Official/Train_Labeled/labels/cell_00619_label.tiff",
+            "modality": "PC"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00628.tif",
+            "label": "Official/Train_Labeled/labels/cell_00628_label.tiff",
+            "modality": "PC"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00642.tif",
+            "label": "Official/Train_Labeled/labels/cell_00642_label.tiff",
+            "modality": "PC"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00660.tif",
+            "label": "Official/Train_Labeled/labels/cell_00660_label.tiff",
+            "modality": "PC"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00669.tif",
+            "label": "Official/Train_Labeled/labels/cell_00669_label.tiff",
+            "modality": "PC"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00677.tif",
+            "label": "Official/Train_Labeled/labels/cell_00677_label.tiff",
+            "modality": "PC"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00687.tif",
+            "label": "Official/Train_Labeled/labels/cell_00687_label.tiff",
+            "modality": "PC"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00715.tiff",
+            "label": "Official/Train_Labeled/labels/cell_00715_label.tiff",
+            "modality": "Fluorescent"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00739.png",
+            "label": "Official/Train_Labeled/labels/cell_00739_label.tiff",
+            "modality": "Fluorescent"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00740.png",
+            "label": "Official/Train_Labeled/labels/cell_00740_label.tiff",
+            "modality": "Fluorescent"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00744.png",
+            "label": "Official/Train_Labeled/labels/cell_00744_label.tiff",
+            "modality": "Fluorescent"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00757.png",
+            "label": "Official/Train_Labeled/labels/cell_00757_label.tiff",
+            "modality": "Fluorescent"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00761.png",
+            "label": "Official/Train_Labeled/labels/cell_00761_label.tiff",
+            "modality": "Fluorescent"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00763.png",
+            "label": "Official/Train_Labeled/labels/cell_00763_label.tiff",
+            "modality": "Fluorescent"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00770.png",
+            "label": "Official/Train_Labeled/labels/cell_00770_label.tiff",
+            "modality": "Fluorescent"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00789.png",
+            "label": "Official/Train_Labeled/labels/cell_00789_label.tiff",
+            "modality": "Fluorescent"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00800.png",
+            "label": "Official/Train_Labeled/labels/cell_00800_label.tiff",
+            "modality": "Fluorescent"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00815.png",
+            "label": "Official/Train_Labeled/labels/cell_00815_label.tiff",
+            "modality": "Fluorescent"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00820.png",
+            "label": "Official/Train_Labeled/labels/cell_00820_label.tiff",
+            "modality": "Fluorescent"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00837.png",
+            "label": "Official/Train_Labeled/labels/cell_00837_label.tiff",
+            "modality": "Fluorescent"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00840.png",
+            "label": "Official/Train_Labeled/labels/cell_00840_label.tiff",
+            "modality": "Fluorescent"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00841.png",
+            "label": "Official/Train_Labeled/labels/cell_00841_label.tiff",
+            "modality": "Fluorescent"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00869.png",
+            "label": "Official/Train_Labeled/labels/cell_00869_label.tiff",
+            "modality": "Fluorescent"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00890.png",
+            "label": "Official/Train_Labeled/labels/cell_00890_label.tiff",
+            "modality": "Fluorescent"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00897.png",
+            "label": "Official/Train_Labeled/labels/cell_00897_label.tiff",
+            "modality": "Fluorescent"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00905.png",
+            "label": "Official/Train_Labeled/labels/cell_00905_label.tiff",
+            "modality": "Fluorescent"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00909.png",
+            "label": "Official/Train_Labeled/labels/cell_00909_label.tiff",
+            "modality": "Fluorescent"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00921.png",
+            "label": "Official/Train_Labeled/labels/cell_00921_label.tiff",
+            "modality": "Fluorescent"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00922.png",
+            "label": "Official/Train_Labeled/labels/cell_00922_label.tiff",
+            "modality": "Fluorescent"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00928.png",
+            "label": "Official/Train_Labeled/labels/cell_00928_label.tiff",
+            "modality": "Fluorescent"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00934.png",
+            "label": "Official/Train_Labeled/labels/cell_00934_label.tiff",
+            "modality": "Fluorescent"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00942.png",
+            "label": "Official/Train_Labeled/labels/cell_00942_label.tiff",
+            "modality": "Fluorescent"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00948.png",
+            "label": "Official/Train_Labeled/labels/cell_00948_label.tiff",
+            "modality": "Fluorescent"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00955.png",
+            "label": "Official/Train_Labeled/labels/cell_00955_label.tiff",
+            "modality": "Fluorescent"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00964.png",
+            "label": "Official/Train_Labeled/labels/cell_00964_label.tiff",
+            "modality": "Fluorescent"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00987.png",
+            "label": "Official/Train_Labeled/labels/cell_00987_label.tiff",
+            "modality": "Fluorescent"
+        },
+        {
+            "img": "Official/Train_Labeled/images/cell_00999.png",
+            "label": "Official/Train_Labeled/labels/cell_00999_label.tiff",
+            "modality": "Fluorescent"
+        }
+    ]
+}
