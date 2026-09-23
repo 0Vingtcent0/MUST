@@ -277,6 +277,18 @@ python evaluate.py \
 
 The evaluation reports instance-level precision, recall, and F1 using an IoU threshold of 0.5.
 
+## Extended Supplementary Material
+
+Extended methodological details, additional analyses, and supplementary experiments associated with MUST are permanently archived on Zenodo:
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22909699.svg)](https://doi.org/10.5281/zenodo.22909699)
+
+The archived supplementary material includes:
+- detailed notation and model configurations;
+- training and inference algorithms;
+- extended Precision, Recall, and statistical analyses;
+- additional ablation and negative-result experiments explored during method development.
+
 ## Citation
 
 The paper is currently under review. Citation information will be added after publication.
