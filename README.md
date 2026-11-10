@@ -289,6 +289,21 @@ The archived supplementary material includes:
 - extended Precision, Recall, and statistical analyses;
 - additional ablation and negative-result experiments explored during method development.
 
+
 ## Citation
 
-The paper is currently under review. Citation information will be added after publication.
+**Paper:** [MUST: Mean-teacher inspired and Uncertainty-aware Semi-supervised Transformer for cell instance segmentation](https://doi.org/10.1109/JBHI.2026.3738295)  
+*IEEE Journal of Biomedical and Health Informatics*, 2026.
+
+Please cite our paper as follows:
+
+```bibtex
+@article{Zeng2026MUST,
+  title   = {{MUST}: Mean-teacher inspired and Uncertainty-aware Semi-supervised Transformer for cell instance segmentation},
+  author  = {Zeng, Yuwen and Hafiane, Adel and Laurent, H{\'e}l{\`e}ne},
+  journal = {IEEE Journal of Biomedical and Health Informatics},
+  year    = {2026},
+  doi     = {10.1109/JBHI.2026.3738295},
+  url     = {https://doi.org/10.1109/JBHI.2026.3738295}
+}
+```
